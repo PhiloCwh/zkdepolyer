@@ -1,4 +1,4 @@
-In the Terminal, Copy and Paste the following commands one by one and click enter
+### In the Terminal, Copy and Paste the following commands one by one and click enter
  
 CODE 1
  
